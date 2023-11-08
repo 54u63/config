@@ -7,7 +7,6 @@
 #7) copie .Xressources dans le home
 #8) xrdb merge
 
-git clone aaaaaaaaaaaaaa
 apt install -y i3 rxvt-unicode polybar feh
 cp ./config ~/.config/i3/config
 cp ./config.ini /etc/polybar/config.ini
